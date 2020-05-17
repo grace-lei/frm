@@ -1,0 +1,6 @@
+framework module Pods_frmU {
+  umbrella header "Pods-frmU-umbrella.h"
+
+  export *
+  module * { export * }
+}
